@@ -1,3 +1,4 @@
-a=1
-b=3
+//sumanth
+a=10
+b=30
 print(a+b)
